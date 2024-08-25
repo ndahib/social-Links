@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![screenshot of result ](./screen.png)
-
+ 
 ### Links
 
 - Solution URL: [👉🏼 link of solution](http://127.0.0.1:5500/)
@@ -44,5 +44,5 @@ Users should be able to:
 - Flexbox
 ## Author
 
-- Website - [Add your name here](http://127.0.0.1:5500/)
+- Website - [my social-links](http://127.0.0.1:5500/)
 - Frontend Mentor - [@ndahib](https://www.frontendmentor.io/profile/ndahib)
