@@ -111,16 +111,16 @@ a:hover
     font-size: 14px;
 }
 
-/* .attribution a
+.attribution a
 {
     text-decoration: underline;
     color: #0000E6;
-} */
+}
 
-/* .attribution a:visited
+.attribution a:visited
 {
     color: #711C3D;
-} */
+}
 
 @media (max-width: 460px)
 {
